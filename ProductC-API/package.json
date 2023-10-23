@@ -1,0 +1,14 @@
+{
+  "name": "ProductC",
+  "version": "1.0.0",
+  "description": "This is API For Product C",
+  "main": "index.js",
+  "author": "Kishore Kota",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
